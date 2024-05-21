@@ -18,7 +18,7 @@ dateparser~=0.7
 boto3~=1.17
 
 # Requirements for examples
-requests~=2.24.0
+requests~=2.32.0
 
 # CLI requirements
 docopt~=0.6.2
